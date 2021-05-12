@@ -1,4 +1,5 @@
 module.exports = {
+    base: 'vuepress-starter',
     title: 'Title',
     description: 'desc',
     displayAllHeaders: true,
